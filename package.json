@@ -4,12 +4,17 @@
     "description": "Atom One Dark Pro, but only the UI elements and not code syntax.",
     "version": "0.0.1",
     "license": "MIT",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.78.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mbmgfnbk/vscode-atom-one-dark-pro-ui"
+    },
     "contributes": {
         "themes": [
             {
