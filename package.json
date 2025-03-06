@@ -1,0 +1,22 @@
+{
+    "name": "atom-one-dark-pro-ui",
+    "displayName": "Atom One Dark Pro UI",
+    "description": "Atom One Dark Pro, but only the UI elements and not code syntax.",
+    "version": "0.0.1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom One Dark Pro UI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atom_one_dark_pro_ui.json"
+            }
+        ]
+    }
+}
