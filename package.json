@@ -3,6 +3,7 @@
     "displayName": "Atom One Dark Pro UI",
     "description": "Atom One Dark Pro, but only the UI elements and not code syntax.",
     "version": "0.0.1",
+    "publisher": "mbmgfnbk",
     "license": "MIT",
     "icon": "icon.png",
     "engines": {
