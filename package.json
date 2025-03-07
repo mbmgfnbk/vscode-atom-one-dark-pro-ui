@@ -2,7 +2,7 @@
     "name": "atom-one-dark-pro-ui",
     "displayName": "Atom One Dark Pro UI",
     "description": "Atom One Dark Pro, but only the UI elements and not code syntax.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mbmgfnbk",
     "license": "MIT",
     "icon": "icon.png",
